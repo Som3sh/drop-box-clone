@@ -15,7 +15,7 @@ export default function Home() {
             Storing everything you need in one place
           </h1>
           <p className="pb-20">
-            Enhance your workflow with Dropbox's file storage and sharing
+            Enhance your workflow with Dropboxs file storage and sharing
             feature. Sign up for free now.
           </p>
 
@@ -38,7 +38,7 @@ export default function Home() {
         This is a clone of Dropbox. It is not the real Dropbox. We donot own or
         affliate with Dropbox or/and any of its subsidiaries. Copyright
         Disclaimer under section 107 of the Copyright Act 1976 , allowance is
-        made for "fair use" for purposes such as education. Fair use is a use
+        made for fair use for purposes such as education. Fair use is a use
       </p>
     </main>
   );
